@@ -1,0 +1,37 @@
+.each-faq {
+  border: 1px solid #d7dae6;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  padding: 15px;
+}
+
+.faq-question-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.faq-question-text {
+  color: #52606d;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: roboto;
+}
+
+.button {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+}
+
+hr {
+  border: 1px solid #d7dae6;
+}
+
+.faq-answer-text {
+  color: #9aa5b1;
+  font-size: 17px;
+  font-weight: 400;
+  font-family: roboto;
+}
